@@ -30,7 +30,7 @@ Special movement rules include **jumping over** an adjacent opponent pawn, and *
 
 ## Screenshots
 
-<img width="911" height="1013" alt="image" src="https://github.com/user-attachments/assets/84fe8bf6-afeb-4ec7-8ea5-ab029bcc0cb3" />
+<img width="500" height="613" alt="image" src="https://github.com/user-attachments/assets/84fe8bf6-afeb-4ec7-8ea5-ab029bcc0cb3" />
 
 
 ---
