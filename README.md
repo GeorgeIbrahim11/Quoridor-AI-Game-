@@ -30,15 +30,12 @@ Special movement rules include **jumping over** an adjacent opponent pawn, and *
 
 ## Screenshots
 
-> *(Add screenshots here after running the game)*
+<img width="911" height="1013" alt="image" src="https://github.com/user-attachments/assets/84fe8bf6-afeb-4ec7-8ea5-ab029bcc0cb3" />
+
 
 ---
 
-## Demo Video
 
-> [Link to demo video](#) *(add after recording)*
-
----
 
 ## Installation & Running
 
